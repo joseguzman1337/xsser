@@ -46,6 +46,10 @@ in the [COPYING](./xsser/doc/COPYING) file.
 
 ----------
 
+#### Run xsser gui
+
+      ./xsser --gtk
+
 ####  Screenshots:
 
   ![XSSer](https://xsser.03c8.net/xsser/url_generation.png "XSSerSchema")
