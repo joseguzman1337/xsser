@@ -42,7 +42,7 @@ in the [COPYING](./xsser/doc/COPYING) file.
 
 ----------
 
-   wget https://xsser.03c8.net/xsser/xsser_1.7-2.tar.gz && tar xf xsser_1.7-2.tar.gz && cd xsser
+    wget https://xsser.03c8.net/xsser/xsser_1.7-2.tar.gz && tar xf xsser_1.7-2.tar.gz && cd xsser
 #
 or
 
