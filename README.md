@@ -18,10 +18,6 @@ in the [COPYING](./xsser/doc/COPYING) file.
 #### Installing:
 
 ----------
-    
-    git clone https://github.com/4k4xs4pH1r3/xsser.git && cd xsser
-    
-
  XSSer runs on many platforms. It requires Python and the following libraries:
 
     - python-pycurl - Python bindings to libcurl
@@ -45,6 +41,19 @@ in the [COPYING](./xsser/doc/COPYING) file.
        * PyGeoIP: https://pypi.python.org/pypi/GeoIP
 
 ----------
+
+   wget https://xsser.03c8.net/xsser/xsser_1.7-2.tar.gz && tar xf xsser_1.7-2.tar.gz && cd xsser
+#
+or
+
+    git clone https://github.com/4k4xs4pH1r3/xsser.git && cd xsser
+#
+    python setup.py install
+#    
+### Help
+
+    ./xsser -h
+
 
 
 #### Use xsser from Terminal
