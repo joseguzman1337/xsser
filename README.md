@@ -46,9 +46,17 @@ in the [COPYING](./xsser/doc/COPYING) file.
 
 ----------
 
-#### Run xsser gui
+
+#### Use xsser from Terminal
+
+      xsser -d http://192.70.197.235:9000/ --De bing -c 50 --Cw 5 --Cl -s -v --hash --heuristic --user-agent Googlebot/2.1 (+http://www.google.com/bot.html) --reverse-check --threads 5 --timeout 30 --retries 1 --delay 0 --auto --Str --Une --Hex --Hes --Dwo --Doo --Dec --Coo --Xsa --Xsr --Dom --Dcp --Ind --Anchor --Phpids0.6.5 --Phpids0.7 --Imperva --Webknight --F5bigip --Barracuda --Modsec --Quickdefense --Onm --Ifr --save --xml xsser-test:2019-05-21 17:53:53.034471.xml
+
+#### USe xsser gui
 
       ./xsser --gtk
+#
+#
+#
 
 ####  Screenshots:
 
