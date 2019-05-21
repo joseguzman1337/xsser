@@ -5,8 +5,12 @@
  Cross Site "Scripter" (aka XSSer) is an automatic -framework- to detect, exploit and report XSS vulnerabilities.
 
 ----------
+    
+    git clone https://github.com/4k4xs4pH1r3/xsser.git && cd xsser
+    
+#
 
-    git clone https://github.com/4k4xs4pH1r3/xsser.git && cd xsser && xsser -d http://192.70.197.235:9000/ --De bing -c 50 --Cw 5 --Cl -s -v --hash --heuristic --user-agent Googlebot/2.1 (+http://www.google.com/bot.html) --reverse-check --threads 5 --timeout 30 --retries 1 --delay 0 --auto --Str --Une --Hex --Hes --Dwo --Doo --Dec --Coo --Xsa --Xsr --Dom --Dcp --Ind --Anchor --Phpids0.6.5 --Phpids0.7 --Imperva --Webknight --F5bigip --Barracuda --Modsec --Quickdefense --Onm --Ifr --save --xml xsser-test:2019-05-21 17:53:53.034471.xml
+    xsser -d http://192.70.197.235:9000/ --De bing -c 50 --Cw 5 --Cl -s -v --hash --heuristic --user-agent Googlebot/2.1 (+http://www.google.com/bot.html) --reverse-check --threads 5 --timeout 30 --retries 1 --delay 0 --auto --Str --Une --Hex --Hes --Dwo --Doo --Dec --Coo --Xsa --Xsr --Dom --Dcp --Ind --Anchor --Phpids0.6.5 --Phpids0.7 --Imperva --Webknight --F5bigip --Barracuda --Modsec --Quickdefense --Onm --Ifr --save --xml xsser-test:2019-05-21 17:53:53.034471.xml
 
 
  XSSer is released under the GPLv3. You can find the full license text
